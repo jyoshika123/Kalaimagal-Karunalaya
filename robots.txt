@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.kalaimagal-karunalaya.org/sitemap.xml
